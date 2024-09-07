@@ -1,8 +1,8 @@
 +++
-title = 'Jon Doe'
+title = 'Bio of the member'
 date = 2024-08-30T14:44:25+02:00
-draft = true
+draft = false
 author = "jondoe"
 +++
 
-Member post 2
+Bio of the member
