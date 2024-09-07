@@ -1,8 +1,12 @@
 +++
-title = 'Bio of the member'
+title = 'LKM MEMBER'
 date = 2024-08-30T14:44:25+02:00
 draft = false
-author = "jondoe"
+author = "LKM MEMBER"
+cover = "img/authors/placeholder.jpg"  
+bio = "A brief biography of the member."
+type = "bio"
+
 +++
 
-Bio of the member
+LKM MEMBER2 BIO PAGE
